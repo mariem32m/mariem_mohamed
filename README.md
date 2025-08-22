@@ -18,7 +18,7 @@ I love building clean and scalable web applications, and always eager to learn n
 
 - 📧 [Email](mariem22sale7@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariem-saleh-a52591329)  
-- 🐦 [Facebook](https://www.facebook.com/profile.php?id=100047944061941)   
+- 🌐 [Facebook](https://www.facebook.com/profile.php?id=100047944061941)   
 
 ---
 
@@ -29,20 +29,31 @@ I love building clean and scalable web applications, and always eager to learn n
 
 ---
 
-## 📚 Learning & Sharing
+## 🛠 Skills & Learning
 
-- ✨ Currently learning: **Advanced Backend Architectures & Cloud Deployment**  
-- 📝 Writing tech articles & sharing coding tips on [Dev.to](https://dev.to/)  
+- 💻 **Programming Languages & Tools**  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+- ✨ Currently learning: **C++**, **JavaScript**, **HTML**, **CSS**  
+- 📖 Always improving skills in **Backend Development & Cloud Deployment**  
 
 ---
 
 ## 💻 GitHub Stats
 
-![Mariam's Github stats](https://github-readme-stats.vercel.app/api?username=mariem32m&show_icons=true&theme=radical)
+![Mariam's Github stats](https://github-readme-stats.vercel.app/api?username=mariem32m&show_icons=true&theme=radical)  
 
 ---
 
 <!--
-**MariamMohamed/MariamMohamed** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**mariem32m/mariem32m** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
+
 
