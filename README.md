@@ -38,7 +38,7 @@ I love building clean and scalable web applications, and always eager to learn n
 
 ## 💻 GitHub Stats
 
-![Mariam's Github stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Mariam's Github stats](https://github-readme-stats.vercel.app/api?username=mariem32m_icons=true&theme=radical)
 
 ---
 
